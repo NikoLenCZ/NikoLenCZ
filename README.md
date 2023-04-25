@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Něco málo o mně:
 <h1 align="center">Ahoj! 👋 jsem Lenka - web developerka a Junior Frontend kodérka</h1>
 <h3 align="center">Jsem zapálená junior frontend kodérka. Tvořím statické webové stránky - většinou webové prezentace a učím se Javascript a React.</h3>
 
@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Nyní zrovna pracuji na **kopii hry Wordle v Javascriptu - dle Yablka**
+- 🔭 Nyní pracuji na **To-Do listu v Javascriptu**
 
-- 👯 Nyní jsem dokončila nejnovější projekt [Vodotop](https://vodotop-topeni.cz/)
+- 👯 Dokončila nejnovější projekt, webovou prezentaci firmy [Vodotop](https://vodotop-topeni.cz/)
 
-- 🌱 Zrovna se učím **Javascript a React**
+- 🌱 Učím se **Javascript a React**
 
 - 🧭 Plány do budoucna: <br>
-**Javascript:** kopie hry Wordle, slider, countdown <br>
-**React:** ToDo list, pexeso, apka s recepty
+     **Javascript:** kopie hry Wordle, slider, countdown <br>
+     **React:** pexeso, apka s recepty
 
 - 👨‍💻 Více informací a mé portfolio najdete na [https://nikolen.cz/](https://nikolen.cz/)
 
@@ -22,7 +22,7 @@
 
 ***
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologie a nástroje:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -39,7 +39,7 @@
 
 ***
 
-## 🌐 Conect with me:
+## 🌐 Kontakt:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolen/) 
 
 <!--
