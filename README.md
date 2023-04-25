@@ -1,10 +1,12 @@
+![LI](https://user-images.githubusercontent.com/55710950/234378115-6f81a392-0f2a-4381-9f66-3ac922274c45.png)
+
+
 # 💫 Něco málo o mně:
-<h1 align="center">Ahoj! 👋 jsem Lenka - web developerka a Junior Frontend kodérka</h1>
-<h3 align="center">Jsem zapálená junior frontend kodérka. Tvořím statické webové stránky - většinou webové prezentace a učím se Javascript a React.</h3>
+<h1 align="center">Ahoj! 👋 jsem Lenka - web developerka a junior frontenďačka</h1>
+<h3 align="center">Jsem bývalá web adminka, kodérka a aspirující Reacťačka. Umím HTML, CSS, základy JavaScriptu a mám za sebou několik statických webovek na míru. Po letech správy webového kontentu hledám pozici, kde bych dostala příležitost učit se v praxi JavaScript a pod vedením se posouvat do profese moderní frontenďačky.</h3>
 
 ***
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Nyní pracuji na **To-Do listu v Javascriptu**
 
