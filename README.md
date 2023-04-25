@@ -8,7 +8,7 @@
 
 - 🔭 Nyní pracuji na **To-Do listu v Javascriptu**
 
-- 👯 Dokončila nejnovější projekt, webovou prezentaci firmy [Vodotop](https://vodotop-topeni.cz/)
+- 👯 Dokončila jsem nejnovější projekt, webovou prezentaci firmy [Vodotop](https://vodotop-topeni.cz/)
 
 - 🌱 Učím se **Javascript a React**
 
