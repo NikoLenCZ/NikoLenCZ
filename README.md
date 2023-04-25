@@ -13,8 +13,9 @@
 - 🌱 Učím se **Javascript a React**
 
 - 🧭 Plány do budoucna: <br>
-     **Javascript:** kopie hry Wordle, slider, countdown <br>
-     **React:** pexeso, apka s recepty
+
+     🟨 **Javascript:** kopie hry Wordle, slider, countdown <br>
+     ⚛️ **React:** pexeso, apka s recepty
 
 - 👨‍💻 Více informací a mé portfolio najdete na [nikolen.cz](https://nikolen.cz/)
 
