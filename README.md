@@ -16,7 +16,7 @@
      **Javascript:** kopie hry Wordle, slider, countdown <br>
      **React:** pexeso, apka s recepty
 
-- 👨‍💻 Více informací a mé portfolio najdete na [https://nikolen.cz/](https://nikolen.cz/)
+- 👨‍💻 Více informací a mé portfolio najdete na [nikolen.cz](https://nikolen.cz/)
 
 - 📫 Můžete mi napsat na: **web@nikolen.cz**
 
