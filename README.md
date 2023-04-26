@@ -2,8 +2,8 @@
 
 
 # 💫 Něco málo o mně:
-<h1 align="center">Ahoj! 👋 jsem Lenka</h1>
-<h3 align="center">Jsem bývalá web adminka, web developerka, kodérka a aspirující Reacťačka. Umím HTML, CSS, základy JavaScriptu a mám za sebou několik statických webovek na míru. Po letech správy webového kontentu hledám pozici, kde bych dostala příležitost učit se v praxi JavaScript a pod vedením se posouvat do profese moderní frontenďačky.</h3>
+<h1>Ahoj! 👋 jsem Lenka</h1>
+<h3 >Jsem bývalá web adminka, web developerka, kodérka a aspirující Reacťačka. Umím HTML, CSS, základy JavaScriptu a mám za sebou několik statických webovek na míru. Po letech správy webového kontentu hledám pozici, kde bych dostala příležitost učit se v praxi JavaScript a pod vedením se posouvat do profese moderní frontenďačky.</h3>
 
 ***
 
