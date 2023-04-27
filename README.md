@@ -1,4 +1,4 @@
-![LI](https://user-images.githubusercontent.com/55710950/234378115-6f81a392-0f2a-4381-9f66-3ac922274c45.png)
+![LinkedIn cover](https://user-images.githubusercontent.com/55710950/234785316-e1c35a64-77ab-40e2-99d6-b3b3cb3f1921.png)
 
 
 # 💫 Něco málo o mně:
