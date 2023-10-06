@@ -1,4 +1,5 @@
-![LinkedIn cover](https://user-images.githubusercontent.com/55710950/234785316-e1c35a64-77ab-40e2-99d6-b3b3cb3f1921.png)
+![LinkedIn cover](https://github.com/NikoLenCZ/NikoLenCZ/assets/55710950/2a4cd2e6-6049-4f43-be14-69145743394c)
+
 
 
 # 💫 Něco málo o mně:
