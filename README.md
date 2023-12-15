@@ -1,24 +1,25 @@
-![LinkedIn cover](https://github.com/NikoLenCZ/NikoLenCZ/assets/55710950/2a4cd2e6-6049-4f43-be14-69145743394c)
+
+![LinkedIn cover2](https://github.com/NikoLenCZ/NikoLenCZ/assets/55710950/ec19a4a5-b98d-4120-98ae-d02e375b42e3)
 
 
 
 # 💫 Něco málo o mně:
 <h1>Ahoj! 👋 jsem Lenka</h1>
-<h3 >Jsem frontend kodérka, web developerka, bývalá web adminka a aspirující Reacťačka. Mám za sebou spolupráci s agenturou, několik spuštěných webovek na míru a tříletou zkušenost s velkou firmou T‑mobile. Neustále se vzdělávám a sleduji novinky ve frontendových technologiích.</h3>
+<h3 >Jsem frontend kodérka, web developerka a aspirující Reacťačka. Mám za sebou spolupráci s agenturami, několik spuštěných webovek na míru a tříletou zkušenost s velkou firmou T‑mobile. Neustále se vzdělávám a sleduji novinky ve frontendových technologiích.</h3>
 
 ***
 
 
-- 🔭 Nyní pracuji na **To-Do listu v Javascriptu**
+- 🔭 Nyní pracuji na **Adventní soutěži s React Girls**
 
-- 👯 Dokončila jsem nejnovější projekt, webovou prezentaci firmy [Vodotop](https://vodotop-topeni.cz/)
+- 👯 Dokončila jsem nejnovější projekt, webovou prezentaci firmy [Vodotop](https://vodotop-topeni.cz/), React aplikace [HP student app](https://nikolencz.github.io/hp-student-app/) a [Movie app](https://nikolen-movie-app.vercel.app/)
 
-- 🌱 Učím se **Javascript a React**
+- 🌱 Učím se **React** s Joshem a jeho skvělýmm [Joy of React](https://www.joyofreact.com/)
 
 - 🧭 Plány do budoucna: <br>
 
-     🟨 **Javascript:** kopie hry Wordle, slider, countdown <br>
-     ⚛️ **React:** pexeso, apka s recepty
+     ⚛️ dokončit kurz Joy of React <br>
+     ⚛️ upravit a vylepšit své Reactí aplikace na správu studentů a vyhledávání filmů 
 
 - 👨‍💻 Více informací a mé portfolio najdete na [nikolen.cz](https://nikolen.cz/)
 
@@ -28,17 +29,17 @@
 
 <h3 align="left">Technologie a nástroje:</h3>
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwindcss" width="60" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2020/03/20/21/04/gimp-4952017_960_720.png" alt="gimp" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+ <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwindcss" width="60" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://cdn.pixabay.com/photo/2020/03/20/21/04/gimp-4952017_960_720.png" alt="gimp" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
 ***
