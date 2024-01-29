@@ -1,33 +1,37 @@
 
-![LinkedIn cover2](https://github.com/NikoLenCZ/NikoLenCZ/assets/55710950/ec19a4a5-b98d-4120-98ae-d02e375b42e3)
+![LinkedIn cover](https://github.com/NikoLenCZ/NikoLenCZ/assets/55710950/00fbc228-edc6-4b27-8bf5-c13e2713e89a)
 
 
 
-# 💫 Něco málo o mně:
-<h1>Ahoj! 👋 jsem Lenka</h1>
-<h3 >Jsem frontend kodérka, web developerka a aspirující Reacťačka. Mám za sebou spolupráci s agenturami, několik spuštěných webovek na míru a tříletou zkušenost s velkou firmou T‑mobile. Neustále se vzdělávám a sleduji novinky ve frontendových technologiích.</h3>
 
-***
-
-
-- 🔭 Nyní pracuji na **Adventní soutěži s React Girls**
-
-- 👯 Dokončila jsem nejnovější projekt, webovou prezentaci firmy [Vodotop](https://vodotop-topeni.cz/), React aplikace [HP student app](https://nikolencz.github.io/hp-student-app/) a [Movie app](https://nikolen-movie-app.vercel.app/)
-
-- 🌱 Učím se **React** s Joshem a jeho skvělýmm [Joy of React](https://www.joyofreact.com/)
-
-- 🧭 Plány do budoucna: <br>
-
-     ⚛️ dokončit kurz Joy of React <br>
-     ⚛️ upravit a vylepšit své Reactí aplikace na správu studentů a vyhledávání filmů 
-
-- 👨‍💻 Více informací a mé portfolio najdete na [nikolen.cz](https://nikolen.cz/)
-
-- 📫 Můžete mi napsat na: **web@nikolen.cz**
+# 💫 About me:
+<h1>Hello! 👋 I'm Lenka</h1>
+<h3 >I am a frontend coder, web developer, former web admin and aspiring React developer. I have worked
+with agencies, launched several customized websites and have three years of experience with the large
+company T-mobile. I am constantly learning and following the latest in front-end technologies.</h3>
 
 ***
 
-<h3 align="left">Technologie a nástroje:</h3>
+
+<!-- - 🔭 I' working on [**Joy of React**](https://www.joyofreact.com/) course from Josh Comeau ) -->
+
+- 👯 I finished my last project, web presentation [Ve Stylu CZ](https://detailing-vestylu.cz/), React appiication [HP student app](https://nikolencz.github.io/hp-student-app/) and [Movie app](https://nikolen-movie-app.vercel.app/)
+
+- 🌱 I'm learning **React JS** with [**Joy of React**](https://www.joyofreact.com/) course from Josh Comeau 
+
+- 🧭 my plans: <br>
+
+     ⚛️ finished course Joy of React <br>
+     ⚛️ improve my React applications for student management and movie search <br>
+     🟦 learn TypeScript
+
+- 👨‍💻 more informations in my web portfolio [nikolen.cz](https://nikolen.cz/)
+
+- 📫 you can email me: **web@nikolen.cz**
+
+***
+
+<h3 align="left">Technologies and tools:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="padding-right:10px;"/>
 &nbsp;
@@ -53,7 +57,7 @@
 
 ***
 
-## 🌐 Kontakt:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolen/) 
 
 <!--
